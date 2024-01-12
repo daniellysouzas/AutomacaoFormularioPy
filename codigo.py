@@ -28,7 +28,7 @@ time.sleep(3)
 
 pyautogui.PAUSE = 0.3
 pyautogui.click(x=533, y=372)#clicando no campo email
-pyautogui.write("aprendendo_python_rpa@gmail.com") #escrevendo o email
+pyautogui.write("aprendendo_python_automatacao@gmail.com") #escrevendo o email
 pyautogui.press("tab")
 pyautogui.write("senhadopython")
 pyautogui.press("enter")
